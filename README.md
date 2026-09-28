@@ -1,2 +1,2 @@
-# dog_the_creeps
+# dog-the-creeps
 godot game learn 1 
